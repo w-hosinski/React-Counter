@@ -1,0 +1,13 @@
+.container { 
+    text-align: center;
+    margin-top: 45vh;  
+}
+
+ul {
+    list-style-type: none;
+}
+
+.btn {
+    padding: 0.4rem;
+    margin: 3px;
+}
